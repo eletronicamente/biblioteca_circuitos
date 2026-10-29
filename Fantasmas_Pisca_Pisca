@@ -9,3 +9,5 @@ A Recompensa: Quando a 5.ª batida é registada, um servomotor é acionado e gir
 Reinicialização Automática: Após 1,5 segundos aberto, o motor regressa à posição inicial, fechando a caixa, e os LEDs voltam ao seu estado de alerta misterioso.
 
 Este é um excelente exemplo de como combinar eletrónica básica (sensores, LEDs e motores) com lógica de programação para criar uma experiência lúdica e interativa.
+
+codigo/
