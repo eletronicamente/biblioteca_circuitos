@@ -1,1 +1,11 @@
+Projeto: Fantasmas e a Caixa de Doces 👻 🍬
 
+Apresento um projeto interativo e divertido desenvolvido com Arduino! O objetivo deste circuito é criar um mecanismo de "cofre" ou "caixa de doces" que só se destranca através de uma sequência exata de batidas.
+
+Como funciona a magia:
+Modo de Espera: Inicialmente, os 5 LEDs amarelos piscam de forma aleatória e contínua, criando um efeito visual misterioso (os "fantasmasA Interação:** O sistema utiliza um sensor piezoelétrico para detetar a vibração de batidas físicas, ou um botão de pressão como alternativa.
+O Contador Visual: Ao registar a primeira batida, o piscar aleatório para. A partir desse momento, cada nova batida acende um LED sequencialmente, marcando o progresso de 1 a 5.
+A Recompensa: Quando a 5.ª batida é registada, um servomotor é acionado e gira 90 graus, abrindo a tampa da caixa de doces!
+Reinicialização Automática: Após 1,5 segundos aberto, o motor regressa à posição inicial, fechando a caixa, e os LEDs voltam ao seu estado de alerta misterioso.
+
+Este é um excelente exemplo de como combinar eletrónica básica (sensores, LEDs e motores) com lógica de programação para criar uma experiência lúdica e interativa.
